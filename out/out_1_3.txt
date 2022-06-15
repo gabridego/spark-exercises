@@ -1,0 +1,5 @@
+('whole milk', 2513)
+('other vegetables', 1903)
+('rolls/buns', 1809)
+('soda', 1715)
+('yogurt', 1372)

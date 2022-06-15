@@ -1,0 +1,2 @@
+min_price,max_price,row_count
+10.0,10000.0,7146
